@@ -32,4 +32,4 @@ learngit 项目网站[https://husky2333c.github.io/learngit.github.io/](https://
 ![远程仓库](/EX3_images/远程仓库.png)  
 
 ### 10、添加到远程仓库  
-![添加到远程仓库](/EX3_images/添加远程仓库.png)  
+![添加到远程仓库](/EX3_images/添加远程库.png)  
