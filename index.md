@@ -33,3 +33,9 @@ learngit 项目网站[https://husky2333c.github.io/learngit.github.io/](https://
 
 ### 10、添加到远程仓库  
 ![添加到远程仓库](/EX3_images/添加远程库.png)  
+
+## 实验过程  
+按照讲义将**安装git**、**创建版本库**、**版本控制**等操作实操完成并截图  
+
+## 实验总结  
+通过这次学习学到了许多新内容，并巩固了Markdown写帖子的格式  
